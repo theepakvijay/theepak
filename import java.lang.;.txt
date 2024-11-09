@@ -1,0 +1,8 @@
+import java.lang.*;
+class java
+{
+public ststic void main(String arg[])
+{
+System.out.print("fdvxvfsd");
+}
+}  
